@@ -4,7 +4,7 @@
  *  
  * Copyright (c) 2015 seeed technology inc.
  * Website    : www.seeed.cc
- * Author     : lawliet zou
+ * Author     : lawliet o
  * Create Time: April 2015
  * Change Log :
  *
